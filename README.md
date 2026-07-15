@@ -1,4 +1,4 @@
-# amber-portfolio
+# amberwall-ai-portfolio
 Professional portfolio featuring my resume, projects, and AI learning journey.
 # Hi, I'm Amber Wall 👋
 
