@@ -45,7 +45,11 @@ Upcoming additions include:
 
 ## Connect With Me
 
-- GitHub: https://github.com/amberwall-ai
-- LinkedIn: *(Coming Soon)*
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/amber-wall
+- Email: jamber0513@gmail.com
+
+Thank you for visiting my portfolio!
 
 Thank you for visiting my profile!
