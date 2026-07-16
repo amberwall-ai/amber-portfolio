@@ -1,4 +1,4 @@
-# amberwall-ai-portfolio
+no# amberwall-ai-portfolio
 Professional portfolio featuring my resume, projects, and AI learning journey.
 # Hi, I'm Amber Wall 👋
 
@@ -47,7 +47,7 @@ Upcoming additions include:
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/amber-wall
+- LinkedIn: https://www.linkedin.com/in/amber-wall-971019175?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Email: jamber0513@gmail.com
 
 Thank you for visiting my portfolio!
