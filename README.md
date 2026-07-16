@@ -37,7 +37,7 @@ I'm currently pursuing an **Associate of Applied Science in AI Software Engineer
 This portfolio will continue to grow as I complete coursework and build new projects.
 
 Upcoming additions include:
-- 📄 Professional Resume
+- 📄 Data Entry Resume
 - 🤖 AI Learning Projects
 - 📊 Data & Excel Projects
 - 📝 Technical Writing Samples
