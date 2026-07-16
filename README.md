@@ -45,7 +45,7 @@ Upcoming additions include:
 
 ## Connect With Me
 
-- GitHub: https://github.com/amberwall
+- GitHub: https://github.com/amberwall-ai
 - LinkedIn: *(Coming Soon)*
 
 Thank you for visiting my profile!
