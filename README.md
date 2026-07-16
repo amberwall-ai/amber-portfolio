@@ -50,4 +50,3 @@ Upcoming additions include:
 
 Thank you for visiting my portfolio!
 
-Thank you for visiting my profile!
